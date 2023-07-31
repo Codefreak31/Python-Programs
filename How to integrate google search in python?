@@ -1,0 +1,5 @@
+#first we need to install a module which is pip install google
+from googlesearch import search #now the second step is to import the search from googlesearch
+query = "prequelcoding" #create a variable called query in which you are going to insert your doubt or question
+for url in search(query): #then after raising a query we need to iterate through the url in the search
+print(url) #which will give the relevant answers
