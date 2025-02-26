@@ -15,4 +15,4 @@ import pywhatkit
 
 import pywhatkit
 
-pywhatkit.sendwhatmsg(“+xyz”, “This is prequelcoding.in”, 13, 49)
+pywhatkit.sendwhatmsg("+xyz", "This is prequelcoding.in", 13, 49)
